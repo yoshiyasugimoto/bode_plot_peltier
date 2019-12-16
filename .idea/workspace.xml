@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7eaffc5-b1c4-42b1-af01-26c36136c31a" name="Default Changelist" comment="" />
+    <list default="true" id="f7eaffc5-b1c4-42b1-af01-26c36136c31a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bode_plot.py" beforeDir="false" afterPath="$PROJECT_DIR$/bode_plot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/peltier_data/OP2_12_13.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/peltier_data/OP_12_13.csv" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1V0ftFnf2IGcrKzd3zFKQKgzDPs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -59,10 +68,25 @@
       <updated>1576395145543</updated>
       <workItem from="1576395146690" duration="968000" />
       <workItem from="1576396177011" duration="8081000" />
+      <workItem from="1576408874013" duration="1240000" />
+      <workItem from="1576491387426" duration="1250000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
